@@ -1,0 +1,198 @@
+body {
+	background-color: black;
+}
+
+html, body{
+	height:100%;
+	width:100%;
+	padding:0px;
+	margin:0px;
+}
+
+#wrapper {
+		padding: 0 20px;
+		background-color: black;
+		text-align: center;
+		height:100%;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	
+}
+
+#start_link {
+	position: absolute;
+	top: 384;
+	left: 201;
+	width: 271;
+	height: 83;
+	z-index: 1;
+	}
+
+#yes_link {
+	position: absolute;
+	top: 142;
+	left: 183;
+	width: 98;
+	height: 39;
+	z-index: 1;
+	}
+
+#no_link {
+	position: absolute;
+	top: 142;
+	left: 387;
+	width: 81;
+	height: 39;
+	z-index: 1;
+	}
+
+#fight_link {
+	position: absolute;
+	top: 124;
+	left: 220;
+	width: 105;
+	height: 39;
+	z-index: 1;
+	}
+
+#run_link {
+	position: absolute;
+	top: 124;
+	left: 368;
+	width: 82;
+	height: 39;
+	z-index: 1;
+	}
+
+#run_yes_link {
+	position: absolute;
+	top: 105;
+	left: 225;
+	width: 89;
+	height: 39;
+	z-index: 1;
+
+	}
+
+#run_no_link {
+	position: absolute;
+	top: 105;
+	left: 368;
+	width: 78;
+	height: 39;
+	z-index: 1;
+
+	}
+
+#photo_link {
+	position: absolute;
+	top: 131;
+	left: 214;
+	width: 85;
+	height: 35;
+	z-index: 1;
+
+	}
+
+#river_yes_link {
+	position: absolute;
+	top: 133;
+	left: 105;
+	width: 81;
+	height: 35;
+	z-index: 1;
+
+	}
+
+#directions_yes_link {
+	position: absolute;
+	top: 104;
+	left: 239;
+	width: 92;
+	height: 35;
+	z-index: 1;
+
+	}
+
+#directions_no_link {
+	position: absolute;
+	top: 104;
+	left: 364;
+	width: 75;
+	height: 30;
+	z-index: 1;
+
+	}
+
+#park_link {
+		position: absolute;
+		top: 121;
+		left: 199;
+		width: 75;
+		height: 30;
+		z-index: 1;
+	
+		}
+
+#not_park_link {
+			position: absolute;
+			top: 121;
+			left: 394;
+			width: 75;
+			height: 31;
+			z-index: 1;
+		
+			}
+#cross_river {
+	            position: absolute;
+				top: 81;
+				left: 186;
+				width: 244;
+				height: 24;
+				z-index: 1;
+			
+				}
+
+#another_way {
+					position: absolute;
+					top: 119;
+					left: 185;
+					width: 314;
+					height: 22;
+					z-index: 1;
+				
+					}
+
+#contemplate {
+						position: absolute;
+						top: 73;
+						left: 121;
+						width: 251;
+						height: 34;
+						z-index: 1;
+					
+						}
+
+#placeroots {
+							position: absolute;
+							top: 238;
+							left: 57;
+							width: 318;
+							height: 34;
+							z-index: 1;
+						
+							}
+
+
+
+
+
+
+#story {
+	background-color: black;
+	width: 675px;
+	height: 540px;
+	margin: auto;
+	position: relative;
+}
